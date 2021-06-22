@@ -1,0 +1,1 @@
+wheat flour,banana,sugar,baking soda,baking powder,vannila essence,oil,milk,salt
